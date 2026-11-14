@@ -1,0 +1,21 @@
+{
+  "name": "blades-and-banners-two-fronts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test --test-isolation=none tests/*.test.js",
+    "cover": "node scripts/cover.mjs"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^1.1.1",
+    "happy-dom": "^21.0.4",
+    "vite": "^6.4.1"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

@@ -1,0 +1,11 @@
+name: Publish game
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  publish:
+    uses: procrastinate-games/game-publisher/.github/workflows/publish.yml@v1
+    secrets: inherit

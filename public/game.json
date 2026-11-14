@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "blades-and-banners-two-fronts",
+  "status": "published",
+  "title": "Blades & Banners: Two Fronts",
+  "shortDescription": "Wield the blade above. Command your army below. Reclaim a fractured realm.",
+  "description": "Fight as a Dawnward hero on the upper ridge while your soldiers wage a real-time battle in the valley below. Defeat scouts, raiders, brutes and assassins to earn gold, then recruit a balanced army of swordsmen, archers, shieldbearers, priests, knights and siege golems. Reclaim five lands, defeat Marshal Veyr, and strengthen your army with permanent campaign upgrades.",
+  "primaryCategory": "Strategy",
+  "categories": ["Strategy", "Action"],
+  "dimension": "2D",
+  "controls": [
+    "Desktop: WASD or arrow keys to move and face; Space or left-click on the ridge to attack; Shift to dodge; 1–6 or click cards to recruit; Escape to pause.",
+    "Mobile: move with the left joystick, hold the sword button to attack, tap dodge, and tap recruitment cards. Both fronts remain visible; landscape is recommended."
+  ],
+  "languages": "English",
+  "saveNote": "Campaign unlocks, best star ratings, fastest victories, campaign marks, upgrades and audio settings save locally on this device.",
+  "coverAlt": "An original blue-caped Dawnward commander stands above two battlefields, as blue and crimson armies clash between stone strongholds.",
+  "accent": "lime",
+  "startQuery": "",
+  "featured": false,
+  "showSource": true,
+  "supportedDevices": ["desktop", "mobile"]
+}
